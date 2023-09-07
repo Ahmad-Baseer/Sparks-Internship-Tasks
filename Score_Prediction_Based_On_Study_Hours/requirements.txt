@@ -1,0 +1,6 @@
+import_ipynb==0.1.4
+numpy==1.25.2
+streamlit==1.25.0
+seaborn
+scikit-learn
+matplotlib
