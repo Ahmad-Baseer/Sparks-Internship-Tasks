@@ -1,0 +1,25 @@
+/* .css-1njjmvq.e1f1d6gn0{
+right: 100px;
+}
+
+.element-container.css-1hynsf2.e1f1d6gn2{
+right: 100px;
+} */
+
+p{
+  font-size: 18px;
+  font-family: 'Times New Roman';
+}
+
+/* Hide Streamlit Branding */
+#MainMenu {
+    visibility: hidden;
+  }
+  
+  footer {
+    visibility: hidden;
+  }
+  
+  header {
+    visibility: hidden;
+  }
